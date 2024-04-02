@@ -4,13 +4,11 @@ Use Yarn as the Node Packcage installer
 
 use Node v18.14.0
 
-to install package
+to install package run 
 
-run 
-
-Yarn install
+"Yarn install"
 
 run server
 
-yarn dev
+"yarn dev"
 
